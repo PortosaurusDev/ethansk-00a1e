@@ -1,0 +1,249 @@
+{
+  "fullName": "Ethan Sarif-Kattan",
+  "headline": "Full Stack Software Engineer & Student",
+  "currentCompany": "Cisco Full-time",
+  "currentSchool": "Imperial College London",
+  "profilePicUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQH-t4i72vIzQA/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=IoIKFF5foUSHsaPTRS74NroaUxOkediixATnUGPcVWo",
+  "backgroundPicUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQE1qOBKwxgR2Q/profile-displaybackgroundimage-shrink_200_800/0?e=1596672000&v=beta&t=y6utrfk3itQT4yKwxNEtbOt_Fj_YMW4IPkcgfKL_-kE",
+  "location": "London, United Kingdom",
+  "summary": [
+    "I work on many of my own programming projects, which has given me the necessary experience to label myself as a full stack developer.",
+    "",
+    "My degree focuses on both the low and high level aspect of computing. This course goes hand in hand with my non-uni high level knowledge of software engineering",
+    "",
+    "Many of my projects can be found on github.com/EthanSK",
+    "",
+    "Also I'm a human too. I like to play video games...and stuff"
+  ],
+  "positions": [
+    {
+      "title": "Software Engineer Intern",
+      "companyName": "Cisco Full-time",
+      "companyLogo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHO_cO49I_FRA/company-logo_100_100/0?e=1599696000&v=beta&t=wgqzMGD674-OciGjQWJra7QjGlttLDH89z9UI8sL5B8",
+      "url": "https://www.linkedin.com/company/cisco/",
+      "dateRange": "Apr 2020 – Present",
+      "location": "London, England, United Kingdom"
+    },
+    {
+      "title": "Founder",
+      "companyName": "ETGgames",
+      "companyLogo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHuFemFjOEHzQ/company-logo_100_100/0?e=1599696000&v=beta&t=3EdZusgjBtr2QfBrWrnWV4EgGuKDAP46SEeUe4_DbZ4",
+      "url": "https://www.linkedin.com/company/etggames/",
+      "dateRange": "Jan 2013 – Present",
+      "description": [
+        "ETGgames is a brand I created to publish mobile and computer games I develop."
+      ]
+    },
+    {
+      "title": "Intern",
+      "companyName": "Mishcon de Reya LLP",
+      "companyLogo": "https://media-exp1.licdn.com/dms/image/C560BAQGnWMyhTvgHtg/company-logo_100_100/0?e=1599696000&v=beta&t=N7PlymBl-PlHzbtFrrRcfvnn8nEwVyHaFDv_JhxK11A",
+      "url": "https://www.linkedin.com/company/mishcon-de-reya/",
+      "dateRange": "Jul 2018 – Aug 2018",
+      "location": "London, United Kingdom",
+      "description": [
+        "I built a machine learning based model for predicting the future cost of law cases based on decades of the firm’s previous labelled data. This further enhanced my python and SQL knowledge, and familiarised me with tools such as SciKit learn."
+      ]
+    },
+    {
+      "title": "Intern",
+      "companyName": "Splash Damage",
+      "companyLogo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGXvwnqYg4rXA/company-logo_100_100/0?e=1599696000&v=beta&t=azkj9WmSTsDEs-NbMTqnfoW_TKtW_2-a3PUuVMgiJT4",
+      "url": "https://www.linkedin.com/company/splash-damage/",
+      "dateRange": "Jul 2016 – Aug 2016",
+      "location": "London, United Kingdom",
+      "description": [
+        "I provided design feedback and testing for a new video game in development. I wrote notes and feedback and then shared this with other team members in design meetings, giving them valuable insight that was largely taken on board."
+      ]
+    },
+    {
+      "title": "Intern",
+      "companyName": "Claranet",
+      "companyLogo": "https://media-exp1.licdn.com/dms/image/C560BAQG9uQAvWHSx9g/company-logo_100_100/0?e=1599696000&v=beta&t=X5BpnoM2rm76gC2Xo3FIKSAG-mk3XZKWe8f8RJjvyNg",
+      "url": "https://www.linkedin.com/company/claranet/",
+      "dateRange": "Jul 2015",
+      "location": "London, United Kingdom",
+      "description": [
+        "I built the alpha of a development environment in PHP that allows the business to track desktop assets and software licensing. From this, I obtained a good grasp of how clients and servers interact with each other."
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "degreeName": "Masters",
+      "fieldOfStudy": "Electronic and Information Engineering",
+      "url": "https://www.linkedin.com/school/12598/?legacySchoolId=12598",
+      "schoolName": "Imperial College London",
+      "schoolLogo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEGh_DklOKK1Q/company-logo_100_100/0?e=1599696000&v=beta&t=qMfTYTIc9bi7ZMGFZi07hTGiePFBxQsWPZhuU-JhJFk",
+      "notes": [
+        "1st Year: Introduction to Computing, Algorithms and Data Structures, Introduction to Computer Architecture , Analysis of Circuits, Digital Electronics 1, Introduction to Signals and Communications, and Systems, Mathematics 1, User-Centred Information Systems, Computing Lab, Electronics Lab, FPGA project.",
+        "Grade: 2:1",
+        "",
+        "2nd Year: Algorithms and Complexity, Object-Oriented Software Engineering, Computer Architecture, Language Processors, Digital Electronics 2, Communication Systems, Signals and Linear Systems, Mathematics 2, Feedback Systems, Computing Lab, Electronics Lab",
+        "Grade: 2:1",
+        "",
+        "3rd Year (upcoming): High level programming, Embedded systems, Robotics, Networks and Web Security, Computer Vision, Machine Learning, Advanced Computer Architecture, Entrepreneurship"
+      ],
+      "yearFrom": "2017",
+      "yearTo": "2021"
+    },
+    {
+      "activities": ["Rowing Team, Ski Team, Chess Team, Royal Air Force"],
+      "url": "https://www.linkedin.com/school/42931/?legacySchoolId=42931",
+      "schoolName": "King's College School Wimbledon",
+      "schoolLogo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEm7UQZz2JRWA/company-logo_100_100/0?e=1599696000&v=beta&t=INMbJ2p3oRAex6aX3G6tJ8JwPHztrMPsuAiJKwd0rWk",
+      "notes": [
+        "A levels: Maths (A), Physics (A), Economics (A), DT (A*)",
+        "10 A*'s IGCSE"
+      ],
+      "yearFrom": "2010",
+      "yearTo": "2017"
+    }
+  ],
+  "skills": [
+    "iOS Development",
+    "Mobile Game Development",
+    "Web Applications",
+    "Game Development",
+    "Software Development",
+    "Field-Programmable Gate Arrays (FPGA)",
+    "Video Games",
+    "Node.js",
+    "Git",
+    "Swift",
+    "JavaScript",
+    "C++",
+    "Bash",
+    "PHP",
+    "MongoDB",
+    "NoSQL",
+    "Python",
+    "SQL",
+    "C#",
+    "Java",
+    "Verilog",
+    "Matlab",
+    "Amazon Web Services (AWS)",
+    "Google Cloud Platform (GCP)",
+    "Firebase",
+    "C",
+    "HTML",
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Adobe Premiere Pro",
+    "Final Cut Pro",
+    "MacOS",
+    "Swift (Programming Language)",
+    "GraphQL",
+    "React.js",
+    "Full-Stack Development",
+    "ARM Assembly",
+    "MIPS assembly",
+    "Heroku",
+    "Google Sheets API",
+    "Messenger API",
+    "Facebook Graph API",
+    "Youtube Data API",
+    "FFmpeg",
+    "Compilers",
+    "Ableton Live",
+    "TypeScript",
+    "Web Scraping",
+    "F#"
+  ],
+  "projects": [
+    {
+      "title": "ClapeData",
+      "dateRange": "Mar 2020",
+      "description": [
+        "A simple web app that aims to help you find out what big companies know about you.",
+        "",
+        "This was made as the final project for our High Level Programming module.",
+        "",
+        "The frontend was made in React, and the server in NodeJS. The backend data analysis was all done in F#."
+      ],
+      "url": "https://clapedata.herokuapp.com/"
+    },
+    {
+      "title": "Permerature",
+      "dateRange": "Feb 2020 – Mar 2020",
+      "description": [
+        "IoT device and dashboard that helps you monitor the environment of your pets, and sends you alerts when certain measurements go out of a range you specify"
+      ],
+      "url": "https://clapedbois.web.app/"
+    },
+    {
+      "title": "Post Likes Bot",
+      "dateRange": "Aug 2019",
+      "description": [
+        "An app that sits in the background, regularly checking your facebook for new posts you've liked or reacted to, and then posts them to you facebook page. I basically made this for myself since I wanted a way to quickly and automatically post memes I like to my own page, but I decided to make it free for public use.",
+        "",
+        "I made this facebook web scraper bot in a week using Electron, Typescript, and Puppeteer."
+      ],
+      "url": "https://www.etggames.com/post-likes-bot"
+    },
+    {
+      "title": "Jecto - Dating App",
+      "dateRange": "Sep 2017 – Jul 2019",
+      "description": [
+        "Jecto is a fully fledged dating app I built for iOS. It contains many features unseen in other dating apps, such as face recognition and fine tuned filtering."
+      ],
+      "url": "https://jecto.app/"
+    },
+    {
+      "title": "Facebook Page Submission Manager Bot",
+      "dateRange": "Apr 2019 – Jun 2019",
+      "description": [
+        "Imperial Secrets is an anonymous submissions page for students at my uni. Through a Google Form, one may submit text, images, video, mood, and polls. There even features an email notification service option.",
+        "",
+        "A bot written in nodejs handles facebook messenger webhooks to ask the admins of the page on messenger whether certain submissions should be allowed or rejected. Then, the bot schedules these submissions on the facebook page using graph api."
+      ],
+      "url": "https://www.facebook.com/imperialsecrets2"
+    },
+    {
+      "title": "C Compiler",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "description": [
+        "My friend and I made a highly featured ansi C (C90) to MIPS 1 compiler from scratch for a uni assigned project. We used Flex, Bison, and C++ to build it. More info in the Github readme."
+      ],
+      "url": "https://github.com/EthanSK/C-to-MIPS-Compiler"
+    },
+    {
+      "title": "Menu Bar Dock",
+      "dateRange": "Mar 2019 – Apr 2019",
+      "description": [
+        "This is a simple menu bar app for MacOS that I made primarily for myself using Swift, but it is available for free public use. It solves a problem I have personally, which is the MacOS dock, which takes up too much space, or is too slow to show, especially when lag kicks in. What Menu Bar Dock does is place the currently open apps in the menu bar in order of recent usage. There are many more options to enable customisability as well."
+      ],
+      "url": "https://ethansk.github.io/Menu-Bar-Dock/"
+    },
+    {
+      "title": "MIPS Simulator",
+      "dateRange": "Nov 2018 – Dec 2018",
+      "description": [
+        "A MIPS 1 assembly language simulator implemented in C++ that I made for a uni project."
+      ],
+      "url": "https://github.com/EthanSK/MIPS_Simulator"
+    },
+    {
+      "title": "Vaporwave Simulator",
+      "dateRange": "Mar 2017 – May 2018",
+      "description": [
+        "This is a 3D 'museum simulator' game I made in Unity using C#. Aside from basic first person movement and physics, there is not much else to the game except to walk around the map with vaporwave a e s t h e t i c graphics."
+      ],
+      "url": "https://store.steampowered.com/app/766850/Vaporwave_Simulator/"
+    },
+    {
+      "title": "Meme Wars in Comments Facebook Bot",
+      "dateRange": "Jun 2016 – Dec 2017",
+      "description": [
+        "A facebook bot I made in PHP that enables anyone to have meme wars with each other in the comments of each post. Whoever's meme comment got the most likes (or reactions) would have their meme posted next, with credits. People are only eligible if they liked other comments, a measure taken to ensure fair participation of the 'game'."
+      ],
+      "url": "https://github.com/EthanSK/Meme-Wars-Bot"
+    }
+  ],
+  "contacts": [
+    { "name": "Ethan’s Profile", "url": "linkedin.com/in/ethansk" },
+    { "name": "Website", "url": "etggames.com  (Company Website)" },
+    { "name": "Email", "url": "esk@etggames.com" }
+  ]
+}
